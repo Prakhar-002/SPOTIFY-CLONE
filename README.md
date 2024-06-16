@@ -4,13 +4,13 @@
 This project is a `simple HTML/CSS` replica of the `Spotify web application interface`. It mimics the layout and` design of Spotify's main features` using only **frontend technologies**.
 
 
-
+</br>
 
 <h1 align="center"> 
 
 <a href="https://prakhar-002-spotify.netlify.app/"><strong> ➥ Live Demo</strong></a>
 </h1>
-<br/>
+
 
 
 # Screenshots ★🎸🎧⋆
@@ -29,15 +29,9 @@ This project is a `simple HTML/CSS` replica of the `Spotify web application inte
 - `Navigation Bar` ➤ Replicates Spotify's top navigation bar with `logo, 
   search bar, and user profile`.
 
-</br>
-
 - `Sidebar` ➤ Includes a sidebar similar to Spotify's, with `links to different sections like Home, Browse, and Your Library`.
 
-</br>
-
 - `Playlist Section` ➤  Displays a `grid of playlist cards, showcasing album covers, titles, and artists.`
-
-</br>
 
 - `Footer` ➤ Mimics Spotify's footer with links to `legal information and social media`.
 
